@@ -75,8 +75,5 @@ These are my latest posts on my [Blog][website]:
  
 </div>
 
-<div style="display: inline_block"><br>
- 
- 
-</div>
+
 
