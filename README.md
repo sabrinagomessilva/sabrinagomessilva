@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/sabrinagomessilva)
 
-![Sabrina Gomes](https://static1.textcraft.net/data1/4/1/41d4878bef64ece945d28538feffaf3ed37fb85ada39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png)
+![Sabrina Gomes](https://static1.textcraft.net/data1/e/1/e1cf919bc7844b4173cea74b7e660185ecf2a6a2f92fcd76972a877ba799e3ed1e02d341df7ac10fda39a3ee5e6b4b0d3255bfef95601890afd80709642ce217500862db7043d6cdf9de6f18.png)
 
 ## Connect with me:
 
@@ -53,7 +53,7 @@ These are my latest posts on my [Blog][website]:
 [website]: https://cadernoeclipse.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/sabrina-gomes-programacao/
 [Alura]: https://cursos.alura.com.br/user/sabrinagomessilva
-[HackerRank]: https://www.hackerrank.com/sabrinagomes3
+[HackerRank]: https://www.hackerrank.com/challenges/bookmarks
 
  <div>
   <a href="https://github.com/sabrinagomessilva">
