@@ -2,10 +2,12 @@
 
 ## Enchanté! <a href="https://cadernoeclipse.blogspot.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+
+
 [![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/sabrinagomessilva)
 
 ![Sabrina Gomes](https://static1.textcraft.net/data1/e/1/e1cf919bc7844b4173cea74b7e660185ecf2a6a2f92fcd76972a877ba799e3ed1e02d341df7ac10fda39a3ee5e6b4b0d3255bfef95601890afd80709642ce217500862db7043d6cdf9de6f18.png)
-
+<img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
 ## Connect with me:
 
 [<img align="left" alt="https://cadernoeclipse.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -21,7 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
+
 
 <br />
 <br />
@@ -57,9 +59,10 @@ These are my latest posts on my [Blog][website]:
 [HackerRank]: https://www.hackerrank.com/challenges/bookmarks
 
  <div>
-  <a href="https://github.com/sabrinagomessilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinagomessilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomessilva&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
   
   <div>
