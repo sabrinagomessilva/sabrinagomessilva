@@ -6,8 +6,8 @@
 
 [![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/sabrinagomessilva)
 
-![Sabrina Gomes](https://static1.textcraft.net/data1/e/1/e1cf919bc7844b4173cea74b7e660185ecf2a6a2f92fcd76972a877ba799e3ed1e02d341df7ac10fda39a3ee5e6b4b0d3255bfef95601890afd80709642ce217500862db7043d6cdf9de6f18.png)
-<img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
+![Sabrina Gomes](https://fontmeme.com/temporary/f11ad262732adfeb1b7f926efecfb40f.png)
+
 ## Connect with me:
 
 [<img align="left" alt="https://cadernoeclipse.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -72,6 +72,8 @@ These are my latest posts on my [Blog][website]:
 </div>
  
  ![Snake animation](https://github.com/sabrinagomessilva/sabrinagomessilva/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img align="center" alt="Rafa-yoda" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
  
 </div>
 
