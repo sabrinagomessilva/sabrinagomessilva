@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/sabrinagomessilva)
 
-![Sabrina Gomes](https://1.bp.blogspot.com/-L7dDNi5Dcko/YU-ITiLem4I/AAAAAAAC3xM/ucCfGhwoH1smRRKhXc6UHAazu_EXew8cgCLcBGAsYHQ/w640-h72/Sabrina-Gomes.png)
+![Sabrina Gomes](https://1.bp.blogspot.com/-sQ-rAx9u-lA/YU-KC19p4LI/AAAAAAAC3xc/lEJeNl_1PE46siiPrHY1FjVH-G8NpHfNACLcBGAsYHQ/s16000/8df5ef4158d0ed62f8c5ecfde97607fdb0772973da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905407cd197971527bb81b74663037342%2B%25281%2529.png)
 
 ## Connect with me:
 
