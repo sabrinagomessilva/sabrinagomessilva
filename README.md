@@ -59,9 +59,9 @@ These are my latest posts on my [Blog][website]:
 [HackerRank]: https://www.hackerrank.com/challenges/bookmarks
 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/sabrinagomessilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinagomessilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomessilva&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
   
@@ -73,7 +73,7 @@ These are my latest posts on my [Blog][website]:
  
  ![Snake animation](https://github.com/sabrinagomessilva/sabrinagomessilva/blob/output/github-contribution-grid-snake.svg)
  
- <img align="center" alt="Rafa-yoda" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
+ <img align="center" alt="sabrinagomessilva" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
  
 </div>
 
