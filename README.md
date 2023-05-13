@@ -31,7 +31,7 @@
 ---
 
 ## 📕 Alguns dos Projetos que criei e participei: 
-- [Chatter](https://github.com/ICEI-PUC-Minas-PMV-ADS/Chatter) = Aplicação de mensagens distribuída para comunicação em grupo. 
+- _Chatter_ = Aplicação de mensagens distribuída para comunicação em grupo. 
 - [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
 - [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
  
