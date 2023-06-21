@@ -72,8 +72,8 @@ These are my latest posts on my [Blog][website]:
  <div>
   <img height="180em" align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   <a href="https://github.com/sabrinagomessilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinagomessilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomessilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=sabrinagomessilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomessilva&layout=compact&langs_count=7&theme=dracula"/>
  
 
 </div>
