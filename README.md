@@ -30,36 +30,34 @@
 
 ---
 
-## 📕 Alguns dos Projetos: 
+## :octocat:  Alguns dos Projetos: 
 - _Chatter_ = Aplicação de mensagens distribuída para comunicação em grupo. 
 - [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
 - [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
- 
- 
 
 
-## 📕 Hackerrank
+## :octocat:  Hackerrank
 
-These are my latest Bookmarked Challenges on my [HackerRank]:
+ These are my latest Bookmarked Challenges on my [HackerRank](https://www.hackerrank.com/sabrinagomes3?hr_r=1):
 
 
-## 📘 My Blog 
+## :octocat:  My Blog 
 
 These are my latest posts on my [Blog][website]:
 
 ### Caderno Eclipce
 
-<!-- BLOG:START -->
-- [Persona: Como E Por Que Criar?](https://cadernoeclipse.blogspot.com/2021/09/persona-como-e-por-que-criar.html)
-- [Funções No C# - Questão Puc](https://cadernoeclipse.blogspot.com/2021/08/funcoes-no-c-questao-puc.html)
-- [Desconto Simples Inss No C#
-](https://cadernoeclipse.blogspot.com/2021/08/desconto-simples-inss-no-c.html)
-- [Meu Primeiro Joguinho No Scratch
-](https://cadernoeclipse.blogspot.com/2021/06/meu-primeiro-joguinho-no-scratch.html)
-- [Calculando Hipotenusa C#](https://cadernoeclipse.blogspot.com/2021/08/calculando-hipotenusa-c.html)
-<!-- BLOG:END -->
+- [30 Dias de código no HackerRank](https://cadernoeclipse.blogspot.com/search/label/30%20Days%20of%20Code%20HackerRank)
+- [Guia de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+- [Notion Projeto Puc Minas Virtual - ADS](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-
+## :octocat:  Links
+- [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
+- [Codepen: Edit HTML](https://codepen.io/pen/)
+- [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
+- [Multiavatar](https://api.multiavatar.com/)
 ---
 
 [website]: https://cadernoeclipse.blogspot.com/
@@ -81,8 +79,10 @@ These are my latest posts on my [Blog][website]:
 </div>
  
  ![Snake animation](https://github.com/sabrinagomessilva/sabrinagomessilva/blob/output/github-contribution-grid-snake.svg)
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrinagomessilva&bg_color=100f0f&color=fd12ed&line=e60a4c&point=f2e9f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <img align="center" alt="sabrinagomessilva" src="https://i.picasion.com/pic91/33c234d2c0721fec377fd23d1ab51151.gif">
+ 
  
 </div>
 
