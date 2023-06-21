@@ -1,7 +1,7 @@
 
 
 ## Enchanté! <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/oix.gif" alt="">
-
+<div align="center" dir="auto"> 
 
 [![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini_brasil.gif" alt="">
 
@@ -9,10 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A56F7&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Sah!;Moro+no+Brasil+e++atualmente;sou+estudante+de+ADS+-+PUC+Minas.;Estou+aprendendo+a+desenvolver+;em+Java%2C+Javascript+e++;criar+aplica%C3%A7%C3%B5es+com+React+Native.;Eu+t%C3%B4+no+grau%2C+mamis!)](https://git.io/typing-svg)
 
+ </div>
 
----
 
-## <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDRvADWpUpBjaZk4r9GppMyv1-vl7GzT55jfdtrRI_s8ftoattPHEX1UOqbDLvm8No_Zwq40njZ1e0yEw58h2sqV4DrCk4b_1ehuDPtYG8vGJfhkB0OWGyk=s0-d"> Connect with me: 
 
 <div align="center" dir="auto"> 
 <a href="https://www.instagram.com/sabrinaliddell/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
