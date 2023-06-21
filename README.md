@@ -52,7 +52,7 @@
 
 ## :octocat: Blog 
 
-These are my latest posts on my [Blog][website]:
+- These are my latest posts on my [Blog][website]:
 
 ## :octocat: Caderno Eclipce
 
