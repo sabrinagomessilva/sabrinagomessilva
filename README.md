@@ -3,12 +3,13 @@
 ## Enchanté! <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 
 
-
 [![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/sabrinagomessilva)
 
 ![Sabrina Gomes](https://1.bp.blogspot.com/-sQ-rAx9u-lA/YU-KC19p4LI/AAAAAAAC3xc/lEJeNl_1PE46siiPrHY1FjVH-G8NpHfNACLcBGAsYHQ/s16000/8df5ef4158d0ed62f8c5ecfde97607fdb0772973da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905407cd197971527bb81b74663037342%2B%25281%2529.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A56F7&center=true&vCenter=true&width=435&lines=Oi%2C+me+chamo+Sabrina...;mas+pode+me+chamar+de+Sah.;Sou+estudante+de+ADS+-+PUC+Minas.;Estou+aprendendo+a+desenvolver+em;Java%2C+Javascript+e+a+criar+;aplica%C3%A7%C3%B5es+com+React+Native.;Eu+t%C3%B4+no+grau%2C+mamis!)](https://git.io/typing-svg)
+
+---
 
 ## Connect with me:
 
@@ -30,7 +31,7 @@
 <br />
 <br />
 
----
+
 
 ## :octocat:  Alguns dos Projetos: 
 - _Chatter_ = Aplicação de mensagens distribuída para comunicação em grupo. 
@@ -60,6 +61,7 @@ These are my latest posts on my [Blog][website]:
 - [Codepen: Edit HTML](https://codepen.io/pen/)
 - [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
 - [Multiavatar](https://api.multiavatar.com/)
+- [Readme Typing SVG ](https://readme-typing-svg.demolab.com/demo/)
 ---
 
 [website]: https://cadernoeclipse.blogspot.com/
@@ -68,9 +70,11 @@ These are my latest posts on my [Blog][website]:
 [HackerRank]: https://www.hackerrank.com/challenges/bookmarks
 
  <div>
+  <img height="180em" align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   <a href="https://github.com/sabrinagomessilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinagomessilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomessilva&layout=compact&langs_count=7&theme=dracula"/>
+ 
 
 </div>
   
