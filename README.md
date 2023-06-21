@@ -86,12 +86,7 @@ These are my latest posts on my [Blog][website]:
  
 
 </div>
-  
-  <div>
-<a href="https://discord.gg/je2GW4QN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sabrinagomes3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-gomes-programacao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ 
  
  ![Snake animation](https://github.com/sabrinagomessilva/sabrinagomessilva/blob/output/github-contribution-grid-snake.svg)
 
