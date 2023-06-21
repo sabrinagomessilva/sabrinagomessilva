@@ -7,7 +7,7 @@
 
 ![Sabrina Gomes](https://1.bp.blogspot.com/-sQ-rAx9u-lA/YU-KC19p4LI/AAAAAAAC3xc/lEJeNl_1PE46siiPrHY1FjVH-G8NpHfNACLcBGAsYHQ/s16000/8df5ef4158d0ed62f8c5ecfde97607fdb0772973da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905407cd197971527bb81b74663037342%2B%25281%2529.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A56F7&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Sah!;Moro+no+Brasil+e++atualmente;sou+estudante+de+ADS+-+PUC+Minas.;Estou+aprendendo+a+desenvolver+em;Java%2C+Javascript+e+a+criar+;aplica%C3%A7%C3%B5es+com+React+Native.;Eu+t%C3%B4+no+grau%2C+mamis!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A56F7&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Sah!;Moro+no+Brasil+e++atualmente;sou+estudante+de+ADS+-+PUC+Minas.;Estou+aprendendo+a+desenvolver+;em+Java%2C+Javascript+e++;criar+aplica%C3%A7%C3%B5es+com+React+Native.;Eu+t%C3%B4+no+grau%2C+mamis!)](https://git.io/typing-svg)
 
 
 ---
