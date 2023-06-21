@@ -35,27 +35,29 @@
 
 
 ## Alguns dos Projetos: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
-- [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens distribuída para comunicação em grupo. 
-- [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
-- [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens distribuída para comunicação em grupo. 
+  
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
+  
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
 
 
 ## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/SIXTY-MANGIA1.gif" alt="">  Hackerrank
 
- These are my latest Bookmarked Challenges on my [HackerRank](https://www.hackerrank.com/sabrinagomes3?hr_r=1):
+ - These are my latest Bookmarked Challenges on my [HackerRank](https://www.hackerrank.com/sabrinagomes3?hr_r=1):
 
 
 ## :octocat: Blog 
 
 These are my latest posts on my [Blog][website]:
 
-### Caderno Eclipce
+## :octocat: Caderno Eclipce
 
-- [30 Dias de código no HackerRank](https://cadernoeclipse.blogspot.com/search/label/30%20Days%20of%20Code%20HackerRank)
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/2dedinho.gif" alt=""> [30 Dias de código no HackerRank](https://cadernoeclipse.blogspot.com/search/label/30%20Days%20of%20Code%20HackerRank)
 
-- [Notion Projeto Puc Minas Virtual - ADS](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/2dedinho.gif" alt=""> [Notion Projeto Puc Minas Virtual - ADS](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-## :octocat:  Links
+## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minibrilho.gif" alt="">  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
 - [Guia de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
@@ -65,6 +67,7 @@ These are my latest posts on my [Blog][website]:
 - [Multiavatar](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
 - [Readme Typing SVG ](https://github.com/DenverCoder1/readme-typing-svg)
 - [Gifs Kawaii](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
+- [Gifs Mini](http://doacoesdapink.no.comunidades.net/lindos-mini-gifs)
 ---
 
 [website]: https://cadernoeclipse.blogspot.com/
