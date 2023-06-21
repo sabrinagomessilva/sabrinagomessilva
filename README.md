@@ -34,7 +34,7 @@
 
 
 ## :octocat:  Alguns dos Projetos: 
-- _Chatter_ = Aplicação de mensagens distribuída para comunicação em grupo. 
+- [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens distribuída para comunicação em grupo. 
 - [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
 - [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
 
@@ -51,11 +51,12 @@ These are my latest posts on my [Blog][website]:
 ### Caderno Eclipce
 
 - [30 Dias de código no HackerRank](https://cadernoeclipse.blogspot.com/search/label/30%20Days%20of%20Code%20HackerRank)
-- [Guia de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
 - [Notion Projeto Puc Minas Virtual - ADS](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 ## :octocat:  Links
 - [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk#contact)
+- [Guia de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
 - [Codepen: Edit HTML](https://codepen.io/pen/)
