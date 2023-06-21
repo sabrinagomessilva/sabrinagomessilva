@@ -1,17 +1,18 @@
 
 
-## Enchanté! <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
+## Enchanté! <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/oix.gif" alt="">
 
 
-[![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) [![counter](https://enlwssp2aca3wsc.m.pipedream.net)](https://github.com/sabrinagomessilva)
+[![Website](https://img.shields.io/website?label=SabrinaGomes&style=for-the-badge&url=https://cadernoeclipse.blogspot.com/)](https://cadernoeclipse.blogspot.com/) <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini_brasil.gif" alt="">
 
 ![Sabrina Gomes](https://1.bp.blogspot.com/-sQ-rAx9u-lA/YU-KC19p4LI/AAAAAAAC3xc/lEJeNl_1PE46siiPrHY1FjVH-G8NpHfNACLcBGAsYHQ/s16000/8df5ef4158d0ed62f8c5ecfde97607fdb0772973da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905407cd197971527bb81b74663037342%2B%25281%2529.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A56F7&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+a+Sah!;Moro+no+Brasil+e++atualmente;sou+estudante+de+ADS+-+PUC+Minas.;Estou+aprendendo+a+desenvolver+em;Java%2C+Javascript+e+a+criar+;aplica%C3%A7%C3%B5es+com+React+Native.;Eu+t%C3%B4+no+grau%2C+mamis!)](https://git.io/typing-svg)
 
+
 ---
 
-## Connect with me:
+## <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDRvADWpUpBjaZk4r9GppMyv1-vl7GzT55jfdtrRI_s8ftoattPHEX1UOqbDLvm8No_Zwq40njZ1e0yEw58h2sqV4DrCk4b_1ehuDPtYG8vGJfhkB0OWGyk=s0-d"> Connect with me: 
 
 [<img align="left" alt="https://cadernoeclipse.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://www.linkedin.com/in/sabrina-gomes-programacao/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,18 +34,18 @@
 
 
 
-## :octocat:  Alguns dos Projetos: 
+## Alguns dos Projetos: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
 - [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens distribuída para comunicação em grupo. 
 - [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
 - [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
 
 
-## :octocat:  Hackerrank
+## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/SIXTY-MANGIA1.gif" alt="">  Hackerrank
 
  These are my latest Bookmarked Challenges on my [HackerRank](https://www.hackerrank.com/sabrinagomes3?hr_r=1):
 
 
-## :octocat:  My Blog 
+## :octocat: Blog 
 
 These are my latest posts on my [Blog][website]:
 
@@ -61,8 +62,9 @@ These are my latest posts on my [Blog][website]:
 - [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
 - [Codepen: Edit HTML](https://codepen.io/pen/)
 - [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)
-- [Multiavatar](https://api.multiavatar.com/)
-- [Readme Typing SVG ](https://readme-typing-svg.demolab.com/demo/)
+- [Multiavatar](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
+- [Readme Typing SVG ](https://github.com/DenverCoder1/readme-typing-svg)
+- [Gifs Kawaii](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
 ---
 
 [website]: https://cadernoeclipse.blogspot.com/
@@ -93,5 +95,5 @@ These are my latest posts on my [Blog][website]:
  
 </div>
 
-
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/a001.gif" alt="">
 
