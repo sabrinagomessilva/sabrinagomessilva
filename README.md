@@ -12,12 +12,12 @@
  </div>
 
 
-
 <div align="center" dir="auto"> 
 <a href="https://www.instagram.com/sabrinaliddell/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
 </a><a href="https://www.youtube.com/channel/UC8GwYOGuQf9ne9HjnBq6S-A" rel="nofollow"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:gomes.sabrinadasilva@gmail.com"> <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/sabrina-gomes-programacao/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+ <a href="https://www.linkedin.com/in/sabrina-gomes-programacao/" rel="nofollow"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
  </div>
 
 <br />
@@ -72,6 +72,7 @@
 - [Readme Typing SVG ](https://github.com/DenverCoder1/readme-typing-svg)
 - [Gifs Kawaii](https:/https://github.com/DenverCoder1/readme-typing-svg/api.multiavatar.com/)
 - [Gifs Mini](http://doacoesdapink.no.comunidades.net/lindos-mini-gifs)
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#filter-by-titles)
 ---
 
 [website]: https://cadernoeclipse.blogspot.com/
@@ -97,5 +98,11 @@
  
 </div>
 
-<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/a001.gif" alt="">
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/a001.gif" alt=""> 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabrinagomessilva&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/sabrinagomessilva/github-profile-trophy)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
+
 
