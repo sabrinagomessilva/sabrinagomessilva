@@ -92,17 +92,23 @@
  
  ![Snake animation](https://github.com/sabrinagomessilva/sabrinagomessilva/blob/output/github-contribution-grid-snake.svg)
 
+ <div align="center" dir="auto"> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabrinagomessilva&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/sabrinagomessilva/github-profile-trophy)
+
+ </div>
+
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrinagomessilva&bg_color=100f0f&color=fd12ed&line=e60a4c&point=f2e9f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
  
 </div>
 
+
+
+
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/a001.gif" alt=""> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sabrinagomessilva&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&rank=-?)](https://github.com/sabrinagomessilva/github-profile-trophy)
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
 
 
