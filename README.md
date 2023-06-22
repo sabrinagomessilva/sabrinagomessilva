@@ -105,9 +105,13 @@
 </div>
 
 
-
+<div align="center" dir="auto"> 
 
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/a001.gif" alt=""> 
+
+ </div>
+
+
 
 
 
