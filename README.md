@@ -38,7 +38,10 @@
 
 
 ## Alguns dos Projetos: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
-  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens distribuída para comunicação em grupo. 
+  
+   <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens. 
+    
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chatter](https://github.com/ICEI-PUC-Minas-PMV-ADS/Chatter) = Aplicação de mensagensageria distribuída para comunicação em grupo. 
   
   <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
   
