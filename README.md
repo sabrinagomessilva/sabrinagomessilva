@@ -35,9 +35,77 @@
 <br />
 <br />
 
+## Projeto Destaque pela PUC Minas 2023: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d"> <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt="">
+
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chatter BatePapo](https://www.youtube.com/watch?v=YbDP4y11n4c) = Nossa aplicação de mensageria <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/diga.gif" alt=""> foi um dos destaques na Apresentação dos projetos selecionados dos eixo 2, 3, 4 e 5 do curso de *Análise e Desenvolvimento de Sistemas (EaD)*, **PUC Minas Virtual**. Assista a apresentação com comentários dos professores orientadores. <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt=""><a href="https://www.youtube.com/live/YbDP4y11n4c?feature=share&t=4454"> **Assistir no Youtube.** </a> Ou, se preferir, assista uma demonstração. 
+
+   <div align="center" dir="auto"> 
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/tv.gif" alt="">
+ <details>
+
+<summary>Assistir Demonstração da Aplicação</summary> 
+
+[You can add text within a collapsed section. ](https://github.com/ICEI-PUC-Minas-PMV-ADS/Chatter/assets/78277341/a1d772f8-53d2-4bd2-8a59-da612fd22f5d
+)
+
+### <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini092.gif" alt=""> **Obrigada por assistir.** </a>
 
 
-## Alguns dos Projetos: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
+
+</details> <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minisetas.gif" alt="">
+
+ </div>
+
+  
+
+ ## Projeto Destaque pela PUC Minas 2022: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d"> 
+
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = *Método de produtividade que divide as tarefas em intervalos cronometrados*. <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt=""><a href="https://www.youtube.com/live/NQJ6yK4BpGM?feature=share&t=5811"> **Assistir no Youtube.** </a>
+
+
+  <div align="center" dir="auto"> 
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/tv.gif" alt="">
+ <details>
+
+<summary>Assistir Demonstração da Aplicação</summary> 
+
+[You can add text within a collapsed section. ](https://user-images.githubusercontent.com/78277341/204905785-3b1e57e1-3874-4101-9c43-36ab12f355c6.mp4)
+
+### <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini092.gif" alt=""> **Obrigada por assistir.** </a>
+
+
+
+</details> <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minisetas.gif" alt="">
+
+ </div>
+
+
+## Projeto Destaque pela PUC Minas 2021: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
+
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = -_Cartela Digital de Vacinação Animal. Mostra de Projetos: Análise e Desenvolvimento de Sistemas 2021-02. **PUC Minas Virtual**_. 
+
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt=""><a href="https://www.youtube.com/live/IYp9n09E6tc?feature=share&t=368"> **Assistir no Youtube.** </a> 
+
+<div align="center" dir="auto"> 
+<img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/tv.gif" alt="">
+ <details>
+
+<summary>Assistir Demonstração da Aplicação</summary> 
+
+[![Watch the video](https://user-images.githubusercontent.com/78277341/175836726-045c6cbd-f203-44d1-b005-c388a717c3d4.png)](https://youtu.be/IxhJQbVDUA4)
+
+### <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini092.gif" alt=""> **Obrigada por assistir.** </a>
+
+
+
+</details> <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/minisetas.gif" alt="">
+
+ </div>
+
+-----
+
+
+## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/pc2.gif" alt=""> Outros Projetos: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
   
    <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chat BatePapo](https://github.com/sabrinagomessilva/chatterBatePapo) = Aplicação de mensagens. 
     
@@ -45,15 +113,15 @@
   
   <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [TimeUpPomodoro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TimeUpPomodoro) = Método de produtividade que divide as tarefas em intervalos cronometrados.
   
-  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal.
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = Cartela Digital de Vacinação Animal. 
 
 
-## <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/SIXTY-MANGIA1.gif" alt="">  Hackerrank
+## <img src="http://media.tumblr.com/tumblr_ll7wi9Eeow1qi6qow.gif" style="color: #abaaaa; filter: none; font-family: Verdana; font-size: 12px; max-width: 500px; opacity: 0.82; text-align: justify; transition: all 1s ease 0s;">  Hackerrank
 
  - These are my latest Bookmarked Challenges on my [HackerRank](https://www.hackerrank.com/sabrinagomes3?hr_r=1):
 
 
-## :octocat: Blog 
+## <img src="http://media.tumblr.com/tumblr_ll7wi9Eeow1qi6qow.gif" style="color: #abaaaa; filter: none; font-family: Verdana; font-size: 12px; max-width: 500px; opacity: 0.82; text-align: justify; transition: all 1s ease 0s;"> Blog 
 
 - These are my latest posts on my [Blog][website]:
 
