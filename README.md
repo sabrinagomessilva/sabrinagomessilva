@@ -38,7 +38,7 @@
 
 ## Projeto Destaque pela PUC Minas 2023: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d"> <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mininews.gif" alt="">
 
-  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chatter BatePapo](https://www.youtube.com/watch?v=YbDP4y11n4c) = Nossa aplicação de mensageria <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/diga.gif" alt=""> foi um dos destaques na Apresentação dos projetos selecionados dos eixo 2, 3, 4 e 5 do curso de *Análise e Desenvolvimento de Sistemas (EaD)*, **PUC Minas Virtual**. Assista a apresentação com comentários dos professores orientadores. <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt=""><a href="https://www.youtube.com/live/YbDP4y11n4c?feature=share&t=4454"> **Assistir no Youtube.** </a> Ou, se preferir, assista uma demonstração. 
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [Chatter BatePapo](https://www.youtube.com/watch?v=YbDP4y11n4c) = Nossa aplicação de mensageria <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/diga.gif" alt=""> foi um dos destaques na Apresentação dos projetos selecionados dos eixo 2, 3, 4 e 5 do curso de  **Análise e Desenvolvimento de Sistemas (EaD)*,PUC Minas Virtual**. Assista a apresentação com comentários dos professores orientadores. <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt=""><a href="https://www.youtube.com/live/YbDP4y11n4c?feature=share&t=4454"> **Assistir no Youtube.** </a> Ou, se preferir, assista uma demonstração. 
 
    <div align="center" dir="auto"> 
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/tv.gif" alt="">
@@ -83,7 +83,7 @@
 
 ## Projeto Destaque pela PUC Minas 2021: <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS3u9w69CZkRWnP5KaOPbud7fj1HmjP4jgTR3VFkJuOJXje1bU5A4-z1bV2pKn0dYNF1dxQVL-d6hm51XjfwEXSFzmquTbAH3AD8J5QOFftO6DCai4vmQ=s0-d">
 
-  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = -_Cartela Digital de Vacinação Animal. Mostra de Projetos: Análise e Desenvolvimento de Sistemas 2021-02. **PUC Minas Virtual**_. 
+  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/setinhu.gif" alt=""> [PetCare](https://github.com/ICEI-PUC-Minas-PMV-ADS/PetCare-) = -_Cartela Digital de Vacinação Animal. **Mostra de Projetos: Análise e Desenvolvimento de Sistemas 2021-02. PUC Minas Virtual**_. 
 
 <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini026.gif" alt=""><a href="https://www.youtube.com/live/IYp9n09E6tc?feature=share&t=368"> **Assistir no Youtube.** </a> 
 
